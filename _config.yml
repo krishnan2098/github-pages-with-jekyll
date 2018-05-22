@@ -1,10 +1,9 @@
-title: Your awesome title
-author: GitHub User
+title: The Inked Quill
+author: Shankar
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The quilled thoughts of a soul in billions of others is posted here. 
+  You are warned because this one soul can impact your souls just like the way it has impacted other souls.
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +11,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: minima
