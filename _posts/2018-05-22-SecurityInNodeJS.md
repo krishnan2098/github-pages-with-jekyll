@@ -1,3 +1,8 @@
+---
+title: "Security In Node JS"
+date: 2018-05-22
+---
+
 # Randall Degges - Everything You Ever Wanted to Know About Web Authentication in Node
 
 Want to learn how web authentication works? How your login information is transmitted from a web browser to a web server, and what happens from that point onwards? How authentication protocols work behind the scenes?
